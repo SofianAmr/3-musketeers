@@ -27,27 +27,31 @@ You can :
 Example : 
 
 ```sh
-$ node bin/index.js 1 usd
+> node bin/index.js 1 usd
 ```
 
 - Save currencies as defaults currencies
+
 ```sh
 > node bin/index.js --save <amount> <currency>
 ```
 
-    Example : 
-    ```sh
-    $ node bin/index.js --save usd eur pln aud
-    ```
+Example : 
+
+```sh
+> node bin/index.js --save usd eur pln aud
+```
 
 - Display help message
+
 ```sh
-$ node index.js --help
+> node index.js --help
 ```
 
 - Display version number
+
 ```sh
-$ node index.js --version
+> node index.js --version
 ```
 
 ## Currencies
