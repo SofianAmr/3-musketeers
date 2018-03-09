@@ -19,14 +19,15 @@ This program calculates the conversion between one currency to anothers currenci
 You can :
 
 - Calculate the conversion between currencies
+
 ```sh
 > node index.js <amount> <currency>
 ```
 
-    Example : 
-    ```sh
-    $ node bin/index.js 1 usd
-    ```
+Example : 
+```sh
+$ node bin/index.js 1 usd
+```
 
 - Save currencies as defaults currencies
 ```sh
