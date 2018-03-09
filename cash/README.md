@@ -25,6 +25,7 @@ You can :
 ```
 
 Example : 
+
 ```sh
 $ node bin/index.js 1 usd
 ```
